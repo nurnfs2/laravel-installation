@@ -18,6 +18,11 @@ cd myproject
 php artisan serve
 
 6. Then, I opened my web browser and visited the URL "http://localhost:8000". I should have seen the Laravel welcome page. Here's a screenshot of the running server:
+
+
+<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+
+
  
 Part 2: Laravel Folder Structure
 
@@ -52,7 +57,7 @@ Route::get('/hello', function () {
 
 Then, I visited the URL "http://localhost:8000/hello" in my web browser. Here's a screenshot of the running route:
 
- 
+<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"> 
 
 
 
